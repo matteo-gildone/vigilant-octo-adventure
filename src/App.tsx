@@ -3,7 +3,9 @@ function App() {
     <div className="u-ff-serif">
       <header>
         <div className="u-container">
-          <h1>Vigilant Octo Adventure</h1>
+          <h1>
+            <a href="/">Vigilant Octo Adventure</a>
+          </h1>
         </div>
       </header>
       <main>
